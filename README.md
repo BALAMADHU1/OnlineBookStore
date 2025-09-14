@@ -97,7 +97,7 @@ commit;
 
 Step 0: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ``` ```> Select master Branch > Next > Next > Finish.
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ``` https://github.com/BALAMADHU1/OnlineBookStore ```> Select master Branch > Next > Next > Finish.
 
 Step 2. a: Go inside ```src/main/resources > application.properties``` and update the value of database details as per your usage, like db.driver, db.host, db.username and db.password according to your installed mysql/postgresql admin user credentials.
 
@@ -126,3 +126,4 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 <img width="930" alt="image" src="https://user-images.githubusercontent.com/34605595/224770145-5902054f-5943-44ac-b02f-92097c8a6972.png">
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/34605595/224770257-e18a3810-0457-4b78-bf46-cf82746708ee.png">
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/34605595/224770392-5a5478d2-98cc-44ee-8689-132b6b16af80.png">
+
